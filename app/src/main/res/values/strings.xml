@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Final Project 3</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sing_in">SING IN</string>
+    <string name="new_account">New Account</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="please_fill_up_the_forms_below_nfor_informations">Please fill up the forms below \nfor informations</string>
+    <string name="e_mail_address">E-mail Address</string>
+    <string name="name">Name</string>
+    <string name="phone_no">Phone No</string>
+    <string name="login">LOGIN</string>
+</resources>
